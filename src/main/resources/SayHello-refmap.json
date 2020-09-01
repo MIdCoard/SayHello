@@ -1,0 +1,14 @@
+{
+  "data": {
+    "named:intermediary": {
+      "com/focess/mixins/MixinNetworkThreadUtil": {
+        "forceMainThread(Lnet/minecraft/network/Packet;Lnet/minecraft/network/listener/PacketListener;Lnet/minecraft/util/thread/ThreadExecutor;)V": "Lnet/minecraft/class_2600;method_11074(Lnet/minecraft/class_2596;Lnet/minecraft/class_2547;Lnet/minecraft/class_1255;)V"
+      }
+    }
+  },
+  "mappings": {
+    "com/focess/mixins/MixinNetworkThreadUtil": {
+      "forceMainThread(Lnet/minecraft/network/Packet;Lnet/minecraft/network/listener/PacketListener;Lnet/minecraft/util/thread/ThreadExecutor;)V": "Lnet/minecraft/class_2600;method_11074(Lnet/minecraft/class_2596;Lnet/minecraft/class_2547;Lnet/minecraft/class_1255;)V"
+    }
+  }
+}
